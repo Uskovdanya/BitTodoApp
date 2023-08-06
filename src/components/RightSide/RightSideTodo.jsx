@@ -1,7 +1,7 @@
 import AddTodo from "./AddTodo";
 import Search from "./Search";
 import TabHeader from "./TabHeader";
-import Footer from "./footer";
+import Footer from "./Footer";
 import { useState } from "react";
 import TodoItem from "./TodoItem";
 
